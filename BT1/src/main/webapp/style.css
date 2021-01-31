@@ -1,0 +1,21 @@
+input[type = text] {
+    width: 300px;
+    font-size: 16px;
+    border: 2px solid #445522;
+    border-radius: 4px;
+    padding: 8px 10px 10px 10px;
+}
+input[type = number] {
+    width: 300px;
+    font-size: 16px;
+    border: 2px solid #445522;
+    border-radius: 4px;
+    padding: 8px 10px 10px 10px;
+}
+input[type = submit] {
+    width: 100px;
+    font-size: 16px;
+    border: 2px solid #445522;
+    border-radius: 4px;
+    padding: 8px 10px 10px 10px;
+}
